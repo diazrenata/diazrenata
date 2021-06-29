@@ -1,3 +1,3 @@
 ### Hi there!
 
-This is a repo for my personal website & github profile, currently in progress!
+See here for my personal website: https://diazrenata.github.io/home/ 
